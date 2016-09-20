@@ -1,3 +1,4 @@
+
 .grid{
   overflow: hidden;
 }
@@ -10,19 +11,19 @@
   width: 100%;
 }
 
-@media only screen and (mid-width: 25em){
+@media only screen and (mid-width: 25em) {
 
-  .s-1{
+  .s-1 {
    width: 100%;
   }
 }
 @media only screen and (mid-width: 38em){
 
-  .m-1{
+  .m-1 {
     width: 100%;
   }
 
-  .m-1-2{
-    width:100%;
+  .m-1-2 {
+    width:50%;
   }
 }
