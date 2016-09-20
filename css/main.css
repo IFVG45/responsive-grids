@@ -17,11 +17,11 @@ html{
   box-sizing: inherit;
 }
 
-body{
+body {
   margin: 0;
 }
 
-.img-flex{
+.img-flex {
   display:block;
   width:100%;
 }
