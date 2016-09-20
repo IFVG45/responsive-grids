@@ -13,6 +13,16 @@
 @media only screen and (mid-width: 25em){
 
   .s-1{
-   width: 100%; 
+   width: 100%;
+  }
+}
+@media only screen and (mid-width: 38em){
+
+  .m-1{
+    width: 100%;
+  }
+
+  .m-1-2{
+    width:100%;
   }
 }
